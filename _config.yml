@@ -1,4 +1,4 @@
-name: traedecor
+name: Trae Decor
 favicon: null
 layout_spectrum: 0.7496367916464806
 typography_spectrum: 0.2088905673008412
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.028744223760440946
-  lightness: 0.08357002725824714
-  saturation: 0.8474361111875623
-  rhythmicContrast: 0.0635845570359379
+    - '#7c94a3'
+    - '#ffffff'
+    - '#bdc7cc'
+    - '#404842'
+    - '#090a0b'
+  brandStrength: 0.75
+  lightness: 0.5625
+  saturation: 0.125
+  rhythmicContrast: 0.75
 purpose: []
